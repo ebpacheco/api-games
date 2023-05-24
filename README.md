@@ -7,7 +7,7 @@ estruturação de projeto e integração com banco de dados utilizando o Spring 
 
 ![image](https://github.com/ebpacheco/api-jogos/assets/113384855/f21b38fd-631b-460c-b529-8f53aa8b5198)
 
-Algum dos conteúdos disponibilizados no treinamento: 
+Conteúdo disponibilizados no treinamento: 
 
 * Configuração do Projeto e Lib Maven;  
 
