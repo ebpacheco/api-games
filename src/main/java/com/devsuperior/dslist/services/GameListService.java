@@ -24,7 +24,7 @@ public class GameListService {
 	@Transactional(readOnly = true)
 	public List<GameListDTO> findAll() {
 		List<GameList> result = gamelistRepository.findAll();
-		List<GameListDTO> dto = result.stream().map(x -> new GameListDTO(x)).toList();
+		List<GameListDTO> dto = result.stream().map(j -> new GameListDTO(j)).toList();
 		return dto;
 	}
 
